@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Maths,Science,English,Computer,Attendance,Total,Average,Grade,Result
+101,Riya Sharma,Biotechnology,78,85,72,90,88,325,81.25,B,Pass
+102,Aman Verma,Computer Science,45,52,60,38,75,195,48.75,D,Fail
+103,Priya Singh,Botany,88,91,84,79,95,342,85.5,A,Pass
+104,Rahul Yadav,Zoology,35,42,55,48,68,180,45.0,D,Fail
+105,Sneha Gupta,Biotechnology,92,89,94,96,98,371,92.75,A,Pass
+106,Karan Mehta,Computer Science,67,58,63,71,82,259,64.75,C,Pass
+107,Anjali Rao,Botany,54,60,49,57,77,220,55.0,C,Pass
+108,Vikas Kumar,Zoology,28,33,45,40,60,146,36.5,F,Fail
+109,Neha Jain,Biotechnology,81,76,88,84,91,329,82.25,B,Pass
+110,Rohit Saini,Computer Science,73,69,65,80,85,287,71.75,B,Pass
+111,Pooja Chauhan,Botany,59,64,70,52,79,245,61.25,C,Pass
+112,Arjun Malik,Zoology,41,38,50,44,65,173,43.25,D,Fail
+113,Simran Kaur,Biotechnology,95,97,90,93,99,375,93.75,A,Pass
+114,Deepak Sharma,Computer Science,62,55,58,66,72,241,60.25,C,Pass
+115,Kavita Devi,Botany,70,74,68,77,86,289,72.25,B,Pass
+116,Manish Goyal,Zoology,48,51,43,36,70,178,44.5,D,Fail
+117,Isha Arora,Biotechnology,85,80,87,91,93,343,85.75,A,Pass
+118,Sachin Bansal,Computer Science,38,45,52,41,58,176,44.0,D,Fail
+119,Ritu Rani,Botany,66,72,75,69,89,282,70.5,B,Pass
+120,Gaurav Tanwar,Zoology,57,49,61,54,74,221,55.25,C,Pass
