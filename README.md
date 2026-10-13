@@ -31,7 +31,8 @@ This project analyzes student academic data using Python. It calculates total an
 - NumPy used for mean, rounding and conditions
 - Pandas used for loading, sorting and filtering data
 - Clear, readable output in the terminal
-
+## Output / Screenshot
+(Screenshot of the program are added in the repository)
 ## Final Outcome
 The program ran successfully and produced these results:
 - Highest average: Simran Kaur (93.75)
